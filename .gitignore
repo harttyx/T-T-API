@@ -55,6 +55,8 @@ web_modules/
 .eslintcache
 
 serviceaccount.json
+jjj.js
+ok/
 
 # Optional stylelint cache
 .stylelintcache
